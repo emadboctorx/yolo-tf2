@@ -6,7 +6,7 @@ install_requires = [
     'opencv_python_headless==4.4.0.44',
     'imagesize==1.2.0',
     'seaborn==0.10.0',
-    'tensorflow==2.3',
+    'tensorflow==2.3.1',
     # 'tensorflow-gpu==2.3',
     'numpy~=1.18.5',
     'matplotlib==3.2.1',
